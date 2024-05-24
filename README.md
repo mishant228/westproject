@@ -1,2 +1,0 @@
-# westproject
-West Project
